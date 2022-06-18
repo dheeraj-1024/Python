@@ -7,3 +7,4 @@
 | 4 |     test     | test file  |
 | 5 |    graph  | simple plotting in python |
 | 6 |  n_fit  | n-th order polynomial fit |
+| 7 | pandas | basic pandas syntax |
