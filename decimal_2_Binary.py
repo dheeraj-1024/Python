@@ -15,4 +15,4 @@ def binary_power(x,power_limit=25):
  return "completed conversion to binary !"
 
 binary_power(100)             # ----------->  call the function
-print(l)    		      # ----------->  l gives the list of powers of 2
+print(l)    		                # ----------->  l gives the list of powers of 2
