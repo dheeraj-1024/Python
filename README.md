@@ -9,4 +9,4 @@
 | 6 |  n_fit  | n-th order polynomial fit |
 | 7 | pandas | basic pandas syntax |
 |8|strings|basic string methods|
-|9|decimal2Binary|gives the powers of 2 in bin. repr.|
+|9|decimal_2_Binary|gives the powers of 2 in bin. repr.|
